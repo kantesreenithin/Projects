@@ -6,7 +6,7 @@ A brief description of what this project does and who it's for
 
 2.create variable and get image using read function
 
-3.At first convert the image to gray scale
+3.At first convert the image to gray 
 
 4.Now invert the image
 
